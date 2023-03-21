@@ -2,8 +2,8 @@
 
 int main(void)
 {
-        putchar('j');
-	putchar('\n');
+        _putchar('j');
+	_putchar('\n');
 	return(0);
 	
 }
